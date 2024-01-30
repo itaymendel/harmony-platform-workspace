@@ -66,13 +66,6 @@
         "@bitdev/symphony.envs.symphony-env": "^0.0.4",
         "@bitdev/symphony.examples.people": "^0.0.4",
         "@bitdev/symphony.symphony-platform": "^0.0.4",
-        "@itaysso/experian-credit.credit": "^0.0.2",
-        "@itaysso/experian-credit.hooks.use-credit": "^0.0.1",
-        "@itaysso/experian-credit.layout.dashboard": "^0.0.1",
-        "@itaysso/experian-freeze.freeze": "^0.0.2",
-        "@itaysso/experian-freeze.hooks.use-freeze": "^0.0.1",
-        "@itaysso/experian-money.money": "^0.0.2",
-        "@itaysso/experian-platform.homepage": "^0.0.2",
         "graphql-tag": "^2.12.6"
       },
       "peerDependencies": {}
